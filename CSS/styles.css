@@ -31,6 +31,13 @@ body{
     /* color: #00e2f2; */
     /* border: none; */
 }
+.two-input{
+    display: flex;
+    
+}
+.ml{
+    margin-left: 10px;
+}
 .btn{
     width: 100%;
     padding: 12px;
